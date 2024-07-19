@@ -3,17 +3,27 @@
     {
       "id": 1,
       "productName": "Product 1",
-      "status": "available"
+      "status": "pending"
     },
     {
       "id": 2,
       "productName": "Product 2",
-      "status": "available"
+      "status": "confirmed"
     },
     {
       "id": 3,
       "productName": "Product 3",
-      "status": "available"
+      "status": "onway"
+    },
+     {
+      "id": 4,
+      "productName": "Product 4",
+      "status": "delivery"
+    },
+     {
+      "id": 5,
+      "productName": "Product 5",
+      "status": "delivered"
     }
   ]
 }

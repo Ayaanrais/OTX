@@ -1,4 +1,3 @@
-[
   {
     "id": 123456789,
     "status": "pending",
@@ -24,4 +23,3 @@
     "status": "processing",
     "name": "Order 5"
   }
-]

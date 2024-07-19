@@ -4,30 +4,40 @@
       "id": 1,
       "productName": "Hound Top",
       "imageurl": "https://tinyurl.com/j9zwjdc3",
+      "totalsteps": 5,
+      "completedsteps": 3,
       "status": "received"
     },
     {
       "id": 2,
       "productName": "Byul Top",
       "imageurl": "https://tinyurl.com/j9zwjdc3",
+      "totalsteps": 5,
+      "completedsteps": 2,
       "status": "confirmed"
     },
     {
       "id": 3,
       "productName": "Byul Dress",
       "imageurl": "https://tinyurl.com/j9zwjdc3",
+      "totalsteps": 5,
+      "completedsteps": 1,
       "status": "inprocess"
     },
      {
       "id": 4,
       "productName": "Elika Top",
        "imageurl": "https://tinyurl.com/j9zwjdc3",
+       "totalsteps": 5,
+       "completedsteps": 4,
        "status": "completed"
     },
      {
       "id": 5,
       "productName": "Elika skirt",
        "imageurl": "https://tinyurl.com/j9zwjdc3",
+       "totalsteps": 5,
+       "completedsteps": 5,
        "status": "handover"
     }
   ]

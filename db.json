@@ -6,6 +6,7 @@
       "imageurl": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F92%2F6d%2F926d79462c7d2e96e2ddf712097702d14c245187.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
       "totalsteps": 5,
       "completedsteps": 3,
+      "status": "inprocess"
     },
     {
       "id": 2,
@@ -13,6 +14,8 @@
       "imageurl": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F92%2F6d%2F926d79462c7d2e96e2ddf712097702d14c245187.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
       "totalsteps": 5,
       "completedsteps": 2,
+      "status": "received"
+      "status": "confirmed"
     },
     {
       "id": 3,
@@ -20,6 +23,7 @@
       "imageurl": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F92%2F6d%2F926d79462c7d2e96e2ddf712097702d14c245187.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
       "totalsteps": 5,
       "completedsteps": 1,
+      "status": "received"
     },
      {
       "id": 4,
@@ -27,6 +31,7 @@
       "imageurl": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F92%2F6d%2F926d79462c7d2e96e2ddf712097702d14c245187.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
        "totalsteps": 5,
        "completedsteps": 4,
+       "status": "completed"
     },
      {
       "id": 5,
@@ -34,6 +39,7 @@
       "imageurl": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F92%2F6d%2F926d79462c7d2e96e2ddf712097702d14c245187.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
        "totalsteps": 5,
        "completedsteps": 5,
+       "status": "handover"
     }
   ]
 }
